@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Feb 22 22:29:15 BRT 2019
+org.eclipse.jst.jee.server\:/binary\:D\:\\PCII-Brunno\\jpa_revisao\\WebContent\\WEB-INF\\lib\\spring-web-4.0.4.RELEASE.jar=WEB-INF/lib/spring-web-4.0.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\PCII-Brunno\\exercicio3\\WebContent\\WEB-INF\\lib\\spring-web-4.0.4.RELEASE.jar=WEB-INF/lib/spring-web-4.0.4.RELEASE.jar

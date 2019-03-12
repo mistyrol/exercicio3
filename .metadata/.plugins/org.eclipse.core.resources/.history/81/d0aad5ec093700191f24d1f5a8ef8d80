@@ -1,0 +1,24 @@
+package br.com.etechoracio.sihas.biblioteca.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Entity
+public class Endereco {
+
+	@Getter
+	@Setter
+	
+	@Table(name="TBL_ENDERECO")
+	private Long id;
+	private String logradouro;
+	private Long numero;
+	private String complemento;
+	private String bairro;
+	private String cidade;
+	private String estado;
+	private String cep;
+}
